@@ -1,0 +1,8 @@
+<resources>
+    <string name="hy_add_to_cart">Sepete ekle</string>
+    <string name="hy_dont_miss_the_chance">Fırsatı kaçırma</string>
+    <string name="hy_add_to_list">Listene ekle, saati bekle</string>
+    <string name="hy_out_of_stock">Tükendi</string>
+    <string name="hy_missed_chance">Fırsat kaçtı</string>
+    <string name="hy_search_placeholder">Ürün, kategori veya marka ara</string>
+</resources>
